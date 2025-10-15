@@ -9,7 +9,7 @@ A simple GUI-based YouTube Video Downloader built using Python's `tkinter` and `
 - Uses `yt-dlp` for efficient downloading and format conversion.
 
 ## Requirements
-Make sure you have the following dependencies installed before running the script:
+Make sure you have the following dependencies installed and updated before running the script:
 
 - Python 3.x
 - `tkinter` (usually included with Python)
